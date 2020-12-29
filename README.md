@@ -12,5 +12,5 @@
 -->
 
 - 📫 How to reach me: jiancheng12@126.com
-- 🔭 I’m currently working on *H8tch Inc*. Suzhou China
-- 👯 I’m looking to collaborate on *Back-end / Mobile-end*
+- 🔭 I’m currently working on **H8tch Inc**. Suzhou China
+- 👯 I’m looking to collaborate on **Back-end / Mobile-end**
