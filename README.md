@@ -1,3 +1,4 @@
+<img src='https://img.shields.io/appveyor/build/gruntjs/grunt' style='float:right' />
 ## Hi there 👋
 
 <!--
